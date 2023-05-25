@@ -1,5 +1,12 @@
 header {
 background-color:rgb(255, 255, 255);
-color:rgb(250, 134, 92);
+color:hsl(16, 100%, 58%);
 }
 
+.cozinha-imagem { 
+    width: 25%;
+} 
+
+.BlogFood {
+    background-image: linear-gradient(#ec7144,#f07f57);
+}
