@@ -3,11 +3,11 @@
     padding: 0;
     }
     body {
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Edge', sans-serif;
     }
     .cabecalho {
-    background-color: #424E61;
-    color: white;
+    background-color: #11131f;
+    color: rgb(255, 255, 255);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -24,10 +24,12 @@
     .cozinha-imagem{
     width: 25%;
     }
+
+    .escola-texto{font-size: 30px;}
     .escola{
-    background-image: linear-gradient(#f16f32,#db8e29);
+    background-image: linear-gradient(#f08d54,#ecd761);
     
-    color:white;
+    color:rgb(0, 0, 0);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -63,7 +65,7 @@
     grid-template-columns: 20% 20% 20% 20% 20%;
     }
     .rodape{
-    background-color: black;
+    background-color: rgb(241, 168, 109);
     text-align: center;
     }
     .rodape-imagem{
